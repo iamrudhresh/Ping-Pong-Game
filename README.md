@@ -7,4 +7,5 @@
 <li> JavaScript </li>
 </ul>
 
-## Live
+## Let's Play 
+https://iamrudhresh.github.io/Ping-Pong-Game/
